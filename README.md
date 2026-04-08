@@ -66,6 +66,8 @@ I'm **Thuy**, a Data Science student at UC Irvine with a love for building data 
   <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=C9748A"/>
   <img src="https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=C9748A"/>
   <img src="https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=C9748A"/>
+  <img src="https://img.shields.io/badge/R-1a1a2e?style=for-the-badge&logo=r&logoColor=C9748A"/>
+  <img src="https://img.shields.io/badge/RStudio-1a1a2e?style=for-the-badge&logo=rstudio&logoColor=C9748A"/>
 </p>
 
 ---
