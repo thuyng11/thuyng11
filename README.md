@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thuy (Twee) Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Thuy Nguyen</h1>
 <h3 align="center">A passionate Data Science student @ UCI</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thuyng11" alt="thuyng11" /></a> </p>
