@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thuy Nguyen</h1>
 <h3 align="center">A passionate Data Science student @ UCI</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thuyng11" alt="thuyng11" /></a> </p>
-
 - 🔭 I’m currently working on [DataAlchemy - an automation solution for data processing and modeling](https://github.com/dolamquan/DataAlchemy/tree/main)
 
 - 👨‍💻 All of my projects are available at [https://thuyng11.github.io/Myportfolio/](https://thuyng11.github.io/Myportfolio/)
