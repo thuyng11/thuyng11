@@ -1,26 +1,96 @@
-<h1 align="center">Hi 👋, I'm Thuy Nguyen</h1>
-<h3 align="center">A passionate Data Science student @ UCI</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [DataAlchemy - an automation solution for data processing and modeling](https://github.com/dolamquan/DataAlchemy/tree/main)
+<!-- Header banner with dark/pink theme -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Thuy%20(Twee)%20Nguyen&fontSize=50&fontColor=ff6fa8&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%40%20UCI%20%7C%20Turning%20data%20into%20stories&descAlignY=55&descAlign=50&descSize=16)
 
-- 👨‍💻 All of my projects are available at [https://thuyng11.github.io/Myportfolio/](https://thuyng11.github.io/Myportfolio/)
+</div>
 
-- 📫 How to reach me **minhthuy111.hcm@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [https://linkedin.com/in/thuynguyenvm](https://linkedin.com/in/thuynguyenvm)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6FA8&center=true&vCenter=true&width=435&lines=Data+Science+Student+%40+UCI+%F0%9F%8D%80;Machine+Learning+Enthusiast;Baker+%2B+Coder+%3D+Me;Turning+Raw+Data+into+Insight)](https://git.io/typing-svg)
 
-- ⚡ Fun fact **I love eating, cooking, and baking ˚˖𓍢ִ໋❀🫕🍣🍜🍱🍧🍰🍪🍵🧋👩🏻‍🍳 *ੈ✩‧**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thuynguyenvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thuynguyenvm" height="30" width="40" /></a>
+---
+
+### 🌸 About Me
+
+> *"I approach data the same way I approach baking — with precision, creativity, and a willingness to iterate until it's just right."*
+
+I'm **Thuy (Twee)**, a Data Science student at UC Irvine with a love for building data pipelines, training models, and experimenting in the kitchen. When I'm not wrangling datasets or debugging SQL queries, you'll probably find me perfecting a matcha roll cake or trying a new ramen spot.
+
+- 🔭 Currently building **[DataAlchemy](https://github.com/dolamquan/DataAlchemy/tree/main)** — an automation solution for data processing & modeling
+- 🌱 Exploring ML pipelines, data engineering, and cloud infrastructure
+- 💡 I believe good data storytelling is just as important as the model itself
+- 🍜 Fun fact: my ideal weekend involves equal parts code reviews and cooking experiments
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/thuynguyenvm">
+    <img src="https://img.shields.io/badge/LinkedIn-FF6FA8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://thuyng11.github.io/Myportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=About.me&logoColor=FF6FA8" alt="Portfolio"/>
+  </a>
+  <a href="mailto:minhthuy111.hcm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6FA8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thuyng11&show_icons=true&locale=en&layout=compact" alt="thuyng11" /></p>
+### 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thuyng11&show_icons=true&locale=en" alt="thuyng11" /></p>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/MATLAB-1a1a2e?style=for-the-badge&logo=mathworks&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=FF6FA8"/>
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/Seaborn-1a1a2e?style=for-the-badge&logo=python&logoColor=FF6FA8"/>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/SQL_Server-1a1a2e?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF6FA8"/>
+  <!-- DevOps / Tools -->
+  <img src="https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=FF6FA8"/>
+  <img src="https://img.shields.io/badge/Figma-1a1a2e?style=for-the-badge&logo=figma&logoColor=FF6FA8"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thuyng11&" alt="thuyng11" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thuyng11&show_icons=true&theme=midnight-purple&hide_border=true&title_color=FF6FA8&icon_color=FF6FA8&text_color=c9d1d9&bg_color=0d0d1a" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thuyng11&layout=compact&theme=midnight-purple&hide_border=true&title_color=FF6FA8&text_color=c9d1d9&bg_color=0d0d1a" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thuyng11&theme=midnight-purple&hide_border=true&stroke=FF6FA8&ring=FF6FA8&fire=ff4d88&currStreakLabel=FF6FA8&background=0d0d1a&dates=c9d1d9" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thuyng11&theme=darkhub&no-frame=true&margin-w=6&column=6&title_color=FF6FA8" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+
+</div>
