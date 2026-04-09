@@ -20,7 +20,7 @@
 I'm **Thuy**, a Data Science student at UC Irvine with a love for building data pipelines, training models, and experimenting in the kitchen. When I'm not wrangling datasets or debugging SQL queries, you'll probably find me perfecting a matcha roll cake or trying a new ramen spot.
 
 - 🔭 Currently building **[DataAlchemy](https://github.com/dolamquan/DataAlchemy/tree/main)** — an automation solution for data processing & modeling
-- 🌱 Exploring ML pipelines, data engineering, and cloud infrastructure
+- 🌱 Exploring ML pipelines, data engineering, and GenAI
 - 💡 I believe good data storytelling is just as important as the model itself
 - 🍜 Fun fact: my ideal weekend involves equal parts code reviews and cooking experiments
 
