@@ -20,11 +20,11 @@
 I'm **Thuy**, a Data Science student at UC Irvine with a love for building data pipelines, training models, and experimenting in the kitchen. I'm passionate about using data to draw insights and decision that matters. Also, I'm a matcha lover with 2+ years of experience making my own matcha at home and hunting the best matcha in California!
 
 - 📈 Current positions:
--   PHIT Intern @ Children's Hospital of OC (Full-stack, database management, research)
--   Backend Developer @ UCI School of Medicine Internal Medicine Department (RAG, vector database, semantic search, AWS (S3, EC2), research, AMIA conference 2026 @ Denver)
+  -   PHIT Intern @ Children's Hospital of OC (Full-stack, database management, research)
+  -   Backend Developer @ UCI School of Medicine Internal Medicine Department (RAG, vector database, semantic search, AWS (S3, EC2), research, AMIA conference 2026 @ Denver)
 - 🔭 Current projects:
--    **[DataAlchemy](https://github.com/dolamquan/DataAlchemy/tree/main)** — an automation solution for data processing & modeling
--    **[EmpoweredPI] (Data Science Capstone Project partnered with UCI School of Medicine, Department of Surgery)** - a quality improvement tool that use data analysis (EDA), database management, and machine learning to predict risk for surgical complication, inform cilnicans about risk and outcomes, and improve care delivery. 
+  -    **[DataAlchemy](https://github.com/dolamquan/DataAlchemy/tree/main)** — an automation solution for data processing & modeling
+  -    **[EmpoweredPI] (Data Science Capstone Project partnered with UCI School of Medicine, Department of Surgery)** - a quality improvement tool that use data analysis (EDA), database management, and machine learning to predict risk for surgical complication, inform cilnicans about risk and outcomes, and improve care delivery. 
 - 🌱 Exploring ML pipelines, data engineering, and GenAI
 - 💡 I believe good data storytelling is just as important as the model itself
 
