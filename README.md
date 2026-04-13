@@ -15,7 +15,7 @@
 
 ### 👩🏻‍💻 About Me
 
-> *"I approach data the same way I approach baking — with precision, creativity, and a willingness to iterate until it's just right."*
+> *"Success is not final, failure is not fatal: it is the courage to continue that counts!"*
 
 I'm **Thuy**, a Data Science student at UC Irvine with a love for building data pipelines, training models, and experimenting in the kitchen. I'm passionate about using data to draw insights and decision that matters. Also, I'm a matcha lover with 2+ years of experience making my own matcha at home and hunting the best matcha in California!
 
