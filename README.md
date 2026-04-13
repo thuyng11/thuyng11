@@ -22,7 +22,6 @@ I'm **Thuy**, a Data Science student at UC Irvine with a love for building data 
 - 🔭 Currently building **[DataAlchemy](https://github.com/dolamquan/DataAlchemy/tree/main)** — an automation solution for data processing & modeling
 - 🌱 Exploring ML pipelines, data engineering, and GenAI
 - 💡 I believe good data storytelling is just as important as the model itself
-- 🍜 Fun fact: my ideal weekend involves equal parts code reviews and cooking experiments
 
 ---
 
