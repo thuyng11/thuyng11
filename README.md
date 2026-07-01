@@ -26,8 +26,10 @@ Outside of tech, I’m also a matcha lover with 2+ years of experience making ma
   -   Backend Developer @ UCI School of Medicine Internal Medicine Department (RAG, vector database, semantic search, AWS (S3, EC2), research, AMIA conference 2026 @ Denver)
 - 🔭 Projects:
   -    **[DataAlchemy](https://github.com/dolamquan/DataAlchemy/tree/main)**: an automation solution for data processing & modeling
-  -    **[EmpoweredPI]**: A Data Science Capstone Project in partnership with the UCI School of Medicine, Department of Surgery. This project focuses on building a quality improvement tool that uses exploratory data analysis, database management, and machine learning to predict surgical complication risk, surface patient outcomes, and support better care delivery.
-    
+  -    **[EmpoweredPI](https://github.com/keerthana-girish/Empowered-PI)**: A Data Science Capstone Project in partnership with the UCI School of Medicine, Department of Surgery. This project focuses on building a quality improvement tool that uses exploratory data analysis, database management, and machine learning to predict surgical complication risk, surface patient outcomes, and support better care delivery.
+
+💡 What I Care About:
+- I like building tools that are not only technically useful, but also understandable and practical for the people who use them.
 ---
 
 ### 🔗 Connect With Me
