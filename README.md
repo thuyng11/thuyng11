@@ -17,7 +17,7 @@
 
 > *"Success is not final, failure is not fatal: it is the courage to continue that counts!"*
 
-Hi, I’m **Thuy**, a Data Science student at UC Irvine passionate about building practical data and AI tools that turn messy information into useful insights. I enjoy working across the full data workflow, from data pipelines and database design to machine learning, RAG systems, semantic search, and data storytelling.
+Hi, I’m **Thuy**, a Data Science student at UC Irvine passionate about building practical data and AI tools. I enjoy working across the full data workflow, from data pipelines and database design to machine learning, RAG systems, semantic search, and data storytelling.
 
 Outside of tech, I’m also a matcha lover with 2+ years of experience making matcha at home and exploring the best matcha spots in California.
 
