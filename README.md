@@ -21,7 +21,9 @@ Hi, I’m **Thuy**, a Data Science student at UC Irvine passionate about buildin
 
 Outside of tech, I’m also a matcha lover with 2+ years of experience making matcha at home and exploring the best matcha spots in California.
 
-- 📈 Experiences:
+- 💻 Current position:
+  -   Backend Developer @ Jaik Solutions Inc (WWG LLC)
+- 📈 Past Experiences:
   -   PHIT Intern @ Children's Hospital of OC (Full-stack, database management, research)
   -   Backend Developer @ UCI School of Medicine Internal Medicine Department (RAG, vector database, semantic search, AWS (S3, EC2), research, AMIA conference 2026 @ Denver)
 - 🔭 Projects:
